@@ -1,2 +1,2 @@
-# sebmarson.github.io
-A github hosted page
+# Hello Steve
+This is a github hosted page. Takes 20 seconds.
